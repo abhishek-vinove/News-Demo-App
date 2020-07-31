@@ -1,0 +1,2 @@
+rootProject.name='Demo News App'
+include ':app'
